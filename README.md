@@ -2,23 +2,6 @@
 
 I'm a passionate **web developer** with a keen interest in building **user-friendly** and **visually appealing** applications. I'm always eager to explore new technologies. 
 
-## Some of my works:
-### [SkyPack](https://github.com/vigneshkk18/sky-pack)
-* **SkyPack** is a decentralized file-sharing platform that enables real-time file transfer between multiple devices.
-
-https://github.com/user-attachments/assets/038c910a-97b8-4eb5-a12a-b7493e79d0f7
-
-### [Streamify](https://github.com/vigneshkk18/streamify)
-* **Streamify** is a peer-to-peer streaming platform.
-
-https://github.com/user-attachments/assets/c5c530aa-eea9-42e6-8b8e-4377f4211bf5
-
-### [Signaling Server](https://github.com/vigneshkk18/webrtc-signaling-server)
-* A **WebRTC signaling server** built with Node.js and Socket.IO to facilitate peer-to-peer (P2P) handshakes between devices.
-
-### [JSBin Clone](https://github.com/vigneshkk18/js-bin)
-* JSBin Clone is a web-based code editor that mirrors the functionality of the original JSBin. It provides a platform for developers to experiment with JavaScript, HTML, and CSS code snippets, facilitating rapid prototyping, debugging, and web development.
-
 ## Languages and Tools:
 <div style="display: flex;">
   <a href="https://react.dev/" target="_blank">
